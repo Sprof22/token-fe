@@ -9,7 +9,7 @@ const Home = () => {
         Welcome to Your Blockchain App
       </h1>
       <p className="text-lg text-gray-400 text-center max-w-lg">
-        Create and deploy your own ERC-20 Tokens or NFTs seamlessly on the blockchain.
+        Create and deploy your own ERC-20 Tokens seamlessly on the blockchain.
       </p>
 
       <div className="mt-10 flex flex-col md:flex-row gap-6">
