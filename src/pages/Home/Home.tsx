@@ -22,12 +22,12 @@ const Home = () => {
         </button>
 
         {/* Create NFT Button */}
-        <button
+        {/* <button
           onClick={() => navigate("/nfts")}
           className="w-60 py-4 text-xl font-semibold bg-green-600 hover:bg-green-500 transition rounded-lg shadow-lg"
         >
           🎨 Create an NFT
-        </button>
+        </button> */}
       </div>
     </div>
   );
