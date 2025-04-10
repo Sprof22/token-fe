@@ -8,7 +8,7 @@ const Header: React.FC = () => {
       <div className=" mx-auto flex justify-between items-center py-4 px-6">
         {/* Logo */}
         <Link to="/" className="text-2xl font-bold text-blue-400">
-          NFT Creator
+          Token LaunchPad
         </Link>
 
         {/* Connect Button */}
